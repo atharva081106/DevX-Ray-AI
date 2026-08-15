@@ -1,13 +1,15 @@
-# DevX-Ray AI 🔍
+# 🚀 DevX-Ray AI 🔮
 
-**Analyze. Diagnose. Upgrade.**
+**🔥 Analyze. ⚡ Diagnose. 🚀 Upgrade.**
 
-DevX-Ray AI is an intelligent developer skill analysis platform that analyzes GitHub repositories, detects coding weaknesses, provides debugging assistance, and generates personalized learning roadmaps.
+### 🟢 **LIVE DEMO:** [**https://dev-x-ray-ai.vercel.app/**](https://dev-x-ray-ai.vercel.app/) 🟢
 
-![DevX-Ray AI](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)
-![Next.js](https://img.shields.io/badge/Next.js-14.1.0-black)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.109.0-green)
-![Gemini AI](https://img.shields.io/badge/Gemini-AI%20Powered-blue)
+DevX-Ray AI is a **mind-blowing** intelligent developer skill analysis platform! It dissects GitHub repositories 🧬, detects deep coding weaknesses 🐛, provides superhuman debugging assistance 🦸‍♂️, and generates hyper-personalized learning roadmaps 🗺️.
+
+![DevX-Ray AI](https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-14.1.0-black?style=for-the-badge&logo=next.js)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.109.0-green?style=for-the-badge&logo=fastapi)
+![Gemini AI](https://img.shields.io/badge/Gemini-AI%20Powered-blue?style=for-the-badge&logo=google)
 
 ## ✨ Features
 
